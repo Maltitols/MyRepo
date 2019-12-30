@@ -7,5 +7,6 @@ public class MainClass01 {
 		System.out.println("lab1 branch에서 작업함");
 		System.out.println("lab1 branch에서 작업함2");
 		System.out.println("master branch hello~");
+		System.out.println("lab1 branch hello~");
 	}
 }
